@@ -1,0 +1,10 @@
+[package]
+name = "qdes-rs"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+base64 = "0.22.1"
+flate2 = "1.0.30"
+hex = "0.4.3"
+md5 = "0.7.0"
